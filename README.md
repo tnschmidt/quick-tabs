@@ -1,4 +1,4 @@
-# quick-tabs
+# quickTabs
 Quick Tabs is a very simple bare bones jQuery plugin to implement tabs on a page. Style the tabs how you would like.
 
 See the example.html file to get an idea of how you should structure your tabs. 
